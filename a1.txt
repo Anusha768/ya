@@ -1,0 +1,7 @@
+cat /etc/issue
+ cat /home/ansible/issue
+cat /etc/motd
+ cat /home/ansible/motd
+xyzcorp_audit
+
+
